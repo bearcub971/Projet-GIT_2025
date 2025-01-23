@@ -1,0 +1,2 @@
+- Permettre aux utilisateurs de sauvegarder leurs recettes préférées dans une liste personnelle.
+- Ajouter une page où l'utilisateur peut voir toutes ses recettes favorites.
