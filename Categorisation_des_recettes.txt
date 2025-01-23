@@ -1,0 +1,2 @@
+- Implémenter une fonctionnalité pour catégoriser les recettes (par exemple : entrée, plat principal, dessert, etc.).
+- Ajouter une page pour afficher les recettes par catégorie.
