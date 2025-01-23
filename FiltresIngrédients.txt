@@ -1,0 +1,2 @@
+   - Ajouter un filtre pour afficher les recettes en fonction des ingrédients disponibles dans la cuisine de l'utilisateur.
+   - Ajouter une fonctionnalité pour indiquer quels ingrédients sont nécessaires pour chaque recette.
