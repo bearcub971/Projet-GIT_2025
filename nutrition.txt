@@ -1,0 +1,3 @@
+- Ajouter un champ pour saisir les informations nutritionnelles d'une recette (calories, protéines, etc.).
+   - Afficher les valeurs nutritionnelles sur la page des recettes.
+
