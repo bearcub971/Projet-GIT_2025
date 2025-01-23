@@ -1,0 +1,3 @@
+- Écrire des tests unitaires pour les différentes fonctions de l'application.
+   - Mettre en place une validation côté client pour le formulaire d'ajout de recette (par exemple, s'assurer que les champs sont remplis correctement).
+
