@@ -5,3 +5,4 @@ echo "exécution du hooks"
 npm run lint
 
 chmod + x .git/hooks/pre-commit
+ 
