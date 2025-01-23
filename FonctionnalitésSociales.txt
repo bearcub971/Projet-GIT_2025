@@ -1,2 +1,2 @@
- - Permettre aux utilisateurs de manger leurs recettes sur les réseaux sociaux.
+ - Permettre aux utilisateurs de partager leurs recettes sur les réseaux sociaux.
  - Ajouter un bouton de partage pour chaque recette.
