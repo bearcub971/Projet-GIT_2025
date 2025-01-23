@@ -1,0 +1,2 @@
+   - Créer une page d'accueil simple avec un en-tête et une liste de catégories de recettes.
+
