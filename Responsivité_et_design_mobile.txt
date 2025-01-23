@@ -1,0 +1,2 @@
+   - Optimiser l'interface pour les appareils mobiles.
+   - Mettre en place un design responsive pour que l'application fonctionne bien sur différentes tailles d'écran.
