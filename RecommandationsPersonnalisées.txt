@@ -1,0 +1,1 @@
+   - Implémenter un algorithme simple qui recommande des recettes en fonction des recettes déjà consultées par l'utilisateur.
