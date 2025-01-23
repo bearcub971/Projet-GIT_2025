@@ -1,0 +1,3 @@
+   - Ajouter une page de connexion et d'inscription.
+   - Permettre à un utilisateur de se connecter et de gérer ses recettes et favoris.
+
